@@ -1,0 +1,224 @@
+.alignment a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.drac a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.header a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    text-align: center;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+11,6d0019+100;Brown+Red+3D */
+    background: rgb(169, 3, 41);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(169, 3, 41, 1)), color-stop(11%, rgba(143, 2, 34, 1)), color-stop(100%, rgba(109, 0, 25, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+    /* IE6-9 */
+    color: chartreuse;
+}
+
+.alignment {
+    text-align: center;
+    background-color: darkseagreen;
+}
+
+.menu_style {
+    border: 2px solid green;
+    padding: 4px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,6d0019+100 */
+    background: #a90329;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #a90329 0%, #6d0019 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a90329), color-stop(100%, #6d0019));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #a90329 0%, #6d0019 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #a90329 0%, #6d0019 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #a90329 0%, #6d0019 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #a90329 0%, #6d0019 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+    /* IE6-9 */
+}
+
+.footer {
+    text-align: center;
+    background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+11,6d0019+100;Brown+Red+3D */
+    background: rgb(169, 3, 41);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(169, 3, 41, 1)), color-stop(11%, rgba(143, 2, 34, 1)), color-stop(100%, rgba(109, 0, 25, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+    /* IE6-9 */
+    color: chartreuse
+}
+
+.dra_st {
+    margin-top: 12px;
+}
+
+h4 {
+    margin-top: 5px;
+    color: white;
+    padding-top: 8px;
+    border-radius: 7px;
+}
+
+h4:hover {
+    color: chartreuse;
+}
+
+.drac h4 {
+    height: 40px;
+    text-align: center;
+    color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
+    background: rgb(169, 3, 41);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 44%, rgba(109, 0, 25, 1) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 44%, rgba(109, 0, 25, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 44%, rgba(109, 0, 25, 1) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+    /* IE6-9 */
+}
+
+.cha-st {}
+
+.drac_snur {
+    text-align: center;
+    height: 60px;
+    margin-top: 0;
+    color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+11,6d0019+100;Brown+Red+3D */
+    background: rgb(169, 3, 41);
+    /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(169, 3, 41, 1)), color-stop(11%, rgba(143, 2, 34, 1)), color-stop(100%, rgba(109, 0, 25, 1)));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, rgba(169, 3, 41, 1) 0%, rgba(143, 2, 34, 1) 11%, rgba(109, 0, 25, 1) 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0);
+    /* IE6-9 */
+}
+
+.drac_snur {}
+
+.img_style {
+    text-align: center;
+}
+
+.cont_style h5 {
+    text-align: center;
+}
+
+..cont_style h5 {
+    text-align: center;
+}
+
+.cont_style {
+    text-align: center;
+    min-height: 100%;
+}
+
+.hole_cont {
+    min-height: 100%;
+}
+
+.drac_tech_style {}
+
+.back-manage {
+    height: 152px;
+}
+
+.style_color {
+    color: chartreuse;
+}
+
+#wrapper_drac {
+    background: url(images/college.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.developer {
+    text-align: center;
+    font-weight: 500;
+    height: 80px;
+    padding-top: 10px;
+    border-radius: 15px;
+    color: orange;
+    background: rgba(222, 104, 40, 0.48);
+}
+
+.developer a {
+    list-style: none;
+    text-decoration: none;
+    color: orange;
+}
+
+.developer {
+    text-shadow: 10px;
+}
+
+.img_control img {
+    max-height: 70px;
+}
+.Footer {
+    margin: 0;
+}
+
+.test a {
+    list-style: none;
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.button_control a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.test a p {
+    font-weight: 300;
+}
